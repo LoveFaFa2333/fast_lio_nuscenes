@@ -1,7 +1,7 @@
 # Fast_LIO_NuScenes
 ## Modified list
 1. Modified fast_lio to offline pipline.
-2. Align lio poses with nuscenes gt pose(ego_pose.json).
+2. Align lio poses with nuscenes gt pose(`ego_pose.json`).
 3. Save lio poses as `ego_pose_fast_lio.json` which can directly be used to training.
 
 ### How to Run
