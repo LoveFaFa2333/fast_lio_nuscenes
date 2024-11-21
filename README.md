@@ -1,8 +1,8 @@
 # Fast_LIO_NuScenes
 ## Modified list
 1. Modified fast_lio to offline pipline.
-2. Align lio poses with nuscenes gt pose(`ego_pose.json`).
-3. Save lio poses as `ego_pose_fast_lio.json` which can directly be used to training.
+2. Align lio poses with gt pose(`ego_pose.json`) of nuscenes.
+3. Save lio poses as `ego_pose_fast_lio.json` which can be directly used for training.
 
 ### How to Run
 1. Convert nuscenes raw data to rosbag by [nuscenes2bag_SLAM](https://github.com/LoveFaFa2333/nuscenes2bag_SLAM);
